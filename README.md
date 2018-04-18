@@ -2,22 +2,13 @@
 
 Welcome to Scient!
 
-Things you may want to cover:
+Set up system from this guide:  https://gorails.com/setup/windows/10
+MySQL
+rbenv
+Ruby version: 2.5.0
+Rails version: 5.1.4
+Database: In progress/Not sure/Working on it
+Run on: localhost:3000
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+What Scient does:
+-Work in progress, I'll let you know.
